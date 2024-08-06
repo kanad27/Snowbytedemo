@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pydeck as pdk
-import vega_datasets as vega
+#import vega_datasets as vega
 from vega_datasets import data
 from snowflake.snowpark.context import get_active_session
 
